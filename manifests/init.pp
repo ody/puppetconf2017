@@ -1,0 +1,1 @@
+class puppetconf2017 {}
